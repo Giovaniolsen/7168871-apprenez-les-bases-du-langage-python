@@ -1,1 +1,2 @@
-## Écrivez votre code ici !
+print("j'append python!");
+print (17+35*2);
