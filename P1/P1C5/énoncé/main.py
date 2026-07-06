@@ -1,1 +1,12 @@
-# Écrivez votre code ici !
+Age = 18;
+Nom = "Giovani";
+Taille = 1.84;
+Est_Etudiant= True ;
+print(f"Nom: {Nom}")
+print(f"Age: {Age}")
+print(f"Taille: {Taille}")
+print(f"Est étudiant: {Est_Etudiant}")
+print(f"Type nom: {type(Nom)}")
+print(f"Type age: {type(Age)}")
+print(f"Type taille: {type(Taille)}")
+print(f"Type est étudiant: {type(Est_Etudiant)}")
